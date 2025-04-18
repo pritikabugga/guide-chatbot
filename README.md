@@ -1,6 +1,6 @@
 # Guide Chatbot
 
-A basic AI chatbot using Wit.ai to understand and respond to user input through the command line.
+A basic AI chatbot using Wit.ai to understand and respond to user input.
 
 ## How to Use
 
