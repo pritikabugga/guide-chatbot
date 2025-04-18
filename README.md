@@ -8,6 +8,3 @@ A basic AI chatbot using Wit.ai to understand and respond to user input through 
 2. Install the required package: `pip install wit`
 3. Run the chatbot: `python guide.py`
 
-## License
-
-MIT License
